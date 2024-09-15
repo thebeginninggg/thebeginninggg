@@ -7,3 +7,6 @@ for one... making sure the script identifies the proper elements on the registra
 for second... email service providers don't like the twilio number, so i need to find an alternative
 third.... sometimes the usernames arent unique and it stalls out
 fourth... there's alot more than four issues, please help 
+
+lets collaborate 
+messag me XMPP greygoat@yax.im
